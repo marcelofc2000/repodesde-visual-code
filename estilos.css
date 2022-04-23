@@ -2,9 +2,11 @@ h1{
     background: red;
     color: white;
     border: 1px solid;
-
 }
 p{
     text-align: justify;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color: blue;
 }
