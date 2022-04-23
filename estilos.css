@@ -4,3 +4,7 @@ h1{
     border: 1px solid;
 
 }
+p{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
